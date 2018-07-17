@@ -1,0 +1,19 @@
+{
+  "name": "signtionary",
+  "version": "1.0.0",
+  "description": "AMI project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MGAROFALOANDRES19/signtionary.git"
+  },
+  "author": "AMI 2018 1s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MGAROFALOANDRES19/signtionary/issues"
+  },
+  "homepage": "https://github.com/MGAROFALOANDRES19/signtionary#readme"
+}
