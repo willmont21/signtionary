@@ -12,6 +12,8 @@
   },
   "author": "AMI 2018 1s",
   "license": "ISC",
+  "dependencies": {
+    },
   "bugs": {
     "url": "https://github.com/MGAROFALOANDRES19/signtionary/issues"
   },
