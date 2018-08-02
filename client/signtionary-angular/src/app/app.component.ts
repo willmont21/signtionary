@@ -42,7 +42,7 @@ export interface Item {
   `,
 })
 export class AppComponent {
-  items$: Observable<Item[]>;
+  items$: Observable<any[]>;
   sizeFilter$: BehaviorSubject<string|null>;
   colorFilter$: BehaviorSubject<string|null>;
   
